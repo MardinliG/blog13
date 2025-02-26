@@ -32,6 +32,7 @@ function App() {
                     <Route path="/create" element={<CreateArticles/>} />
                     <Route path="/about" element={<About/>} />
                 </Routes>
+                <Analytics/>
             </div>
         </Router>
     );
