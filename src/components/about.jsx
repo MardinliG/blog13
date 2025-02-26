@@ -89,7 +89,7 @@ export default function About() {
                                 </CardHeader>
                                 <CardContent>
                                     <p className="text-muted-foreground">
-                                        Notre mission est de rendre le sport accessible a tous . Nous nous engageons à fournir un chef de projet, des tutoriels pratiques et des ressources pertinentes pour aider chacun à progresser dans le domaine du développement web.
+                                        Notre mission est de rendre le sport accessible a tous . Nous nous engageons à fournir un chef de projet, des tutoriels pratiques et des ressources pertinentes pour aider chacun à progresser dans le domaine du développement web. -------------------
                                     </p>
                                 </CardContent>
                             </Card>
