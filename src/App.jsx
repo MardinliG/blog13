@@ -13,6 +13,7 @@ import ForgotPassword from "./components/ForgotPassword.jsx";
 import CreateAccount from "./components/CreateAccount.jsx";
 import {ArticleDetails} from "./components/articlesdetail.jsx";
 import About from "./components/about.jsx";
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
     return (
